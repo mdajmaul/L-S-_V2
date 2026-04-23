@@ -37,15 +37,15 @@
     ""
   ],
   "reactBy": {
-    "delete": ["🥲", "❌", "😠", "😡", "😾"],
-    "kick": ["👟", "🦵"]
+    "delete": ["👅", "😡", "🩵", "🤦", "😒"],
+    "kick": ["🙂", "😢"]
   }, 
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Shizuka 🐱💕",
+  "nickNameBot": "Shizuka🐱💕",
   "prefix": "!",
   "database": {
     "type": "sqlite",
